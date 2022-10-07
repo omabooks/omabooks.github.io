@@ -5,13 +5,13 @@
   <loc>https://omabooks.vercel.app/</loc>
   <lastmod>2022-10-04T00:07:55+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.0</priority>
+  <priority>0.8</priority>
 </url>
 <url>
-  <loc>https://omabooks.vercel.app/books/george-lewis/the-first-clue/</loc>
+  <loc>https://omabooks.vercel.app/authors/george-lewis/the-first-clue/</loc>
   <lastmod>2022-10-04T00:07:55+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>1.0</priority>
+  <priority>0.8</priority>
 </url>
 
 </urlset>
