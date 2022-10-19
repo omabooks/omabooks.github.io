@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://omabooks.vercel.app/</loc>
-    <lastmod>2022-10-19T17:41:00+00:00</lastmod>
+    <lastmod>2022-10-19T17:52:17+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://omabooks.vercel.app/authors/george-lewis/the-first-clue/</loc>
-    <lastmod>2022-10-19T17:41:00+00:00</lastmod>
+    <lastmod>2022-10-19T17:52:17+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
