@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://omabooks.vercel.app/</loc>
-    <lastmod>2022-10-19T17:52:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://omabooks.github.io/</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://omabooks.vercel.app/authors/george-lewis/the-first-clue/</loc>
-    <lastmod>2022-10-19T17:52:17+00:00</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://omabooks.github.io/authors/george-lewis/the-first-clue/</loc>
     <priority>0.8</priority>
   </url>
 </urlset>

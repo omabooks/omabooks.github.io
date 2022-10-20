@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://omabooks.vercel.app/sitemap.xml
+Sitemap: https://omabooks.github.io/sitemap.xml
